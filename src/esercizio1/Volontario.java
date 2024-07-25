@@ -13,7 +13,7 @@ public class Volontario implements Checkable {
 
     @Override
     public void checkIn() {
-        System.out.println(nome + " ha iniziato il suo servizio volontario.");
+        System.out.println(nome + " ha iniziato il suo servizio di volontariato.");
     }
 
     // Getters

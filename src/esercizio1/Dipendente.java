@@ -45,7 +45,7 @@ public abstract class Dipendente implements Checkable {
 
     @Override
     public void checkIn() {
-        System.out.println("Dipendente con matricola " + matricola + " ha iniziato il turno di lavoro.");
+        System.out.println("Il Dipendente con matricola " + matricola + " ha iniziato il turno di lavoro.");
     }
 
     // Getters
